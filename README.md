@@ -2,6 +2,8 @@
 
 1.Fruits (Fresh Fruit Dataset): Train on a dataset containing Apples, Bananas, and Oranges.
 2.Architecture :<br>
+<img width="127" height="139" alt="image" src="https://github.com/user-attachments/assets/23f71b36-c0a7-41b1-8adb-ac9f6c2ce41c" />
+<br>
 
 
 3. visuals:<br>
